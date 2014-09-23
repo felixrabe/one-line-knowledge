@@ -1,1 +1,1 @@
-* To flush partition tables, use partprobe
+* To flush partition tables, use `partprobe`
