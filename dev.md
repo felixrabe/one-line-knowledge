@@ -1,0 +1,1 @@
+- GitHub Markdown links are documented in http://git.io/FkxEvg
